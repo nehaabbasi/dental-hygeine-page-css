@@ -1,0 +1,163 @@
+div img{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    margin-top: -4px;
+    margin-right: 200px;
+}
+p.text{
+    color:#1c9c8b;
+    display: flex;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: italic;
+font-size: 18px; 
+margin-top: 20px;
+margin-left: 5px;}
+
+.mid{text-align: center;
+    margin-top: -100px;
+    font-size: 25px;
+color: #636e6d;
+word-spacing: 17px;
+}
+    
+
+    .navbar ul li{display: inline;
+        padding: 50;}
+       
+    
+    
+    
+        .navbar ul{
+            text-align: center;
+            margin-top: 60px;
+            font-size: 20px;}
+
+            .navbar li a{
+                display: inline;
+                color: #3a968a;
+                text-align: center;
+                padding: 70px;
+            font-size: 25px;}
+            
+            
+            
+            
+
+li a:hover{ color: black;}
+li a:active{ color: #5424c5;}
+
+   div#grad  { text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    color: #636e6d;
+    font-weight: lighter;}
+    div#grad {
+            background-image: linear-gradient(to right, rgb(58, 197, 179) , rgb(224, 224, 211),rgb(209, 202, 202) , rgb(218, 207, 207), rgb(248, 241, 241)
+            );
+height:  69px;
+margin: 60px;
+margin-top: 15px;}
+
+div#new{
+    background-color: #c5d6f5;
+    width: 27%;
+margin-top: 30px;
+margin: 4px ,4px;
+border-radius: 7px;
+margin-left: 30px; 
+height: 430px;
+box-shadow: #5424c5;
+
+}
+ 
+.second{
+    background-color: #e9bbe7;
+width: 27%;
+margin-top: -450px;
+margin-left: 470px;
+border-radius: 7PX ;
+
+}
+
+
+.third{  background-color: #d38fee;
+    width: 27%;
+    margin-top: -447px;
+    margin-left: 910px;
+    border-radius: 7PX ;
+    height: 430px;}
+
+#new{
+    border: 1px solid rgb(4, 5, 65);
+}
+.third{
+    border: 1px solid rgb(4, 5, 65);
+    margin-top: -425px;
+}
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+https://github.com/nehaabbasi/Css-gradient-assigment/blob/main/index.html
+
+
+https://github.com/nehaabbasi/css-file-gradient-/blob/main/style.css
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+  
+
+
+
+ 
+
+            
+            
+
+            
+        
+    
+
+    
+    
+   
+    
+    
+
+
+
+
+
+
+
+    
+    
